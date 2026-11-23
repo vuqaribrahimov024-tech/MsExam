@@ -48,7 +48,7 @@ public class LoanService {
         if (app.amount() > app.salary() * 10) {
             return "REJECTED: income";
         }
-        return "APPROVED";
+        return "APPR";
 
 
 
