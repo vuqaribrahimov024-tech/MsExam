@@ -49,6 +49,9 @@ public class LoanService {
             return "REJECTED: income";
         }
         return "APPROVED";
+
+
+
     }
 
     public static void main(String[] args) {
